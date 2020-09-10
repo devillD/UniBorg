@@ -14,7 +14,8 @@ Mozilla Public License for more details.
 ## installing
 
 #### The Easiest Way
-
+##### Heroku
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/UniBorg.git)
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
 
 - Start docker daemon [skip if already running]:
